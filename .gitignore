@@ -1,2 +1,4 @@
 .metadata
 RemoteSystemsTempFiles
+stm32f4/Debug/
+stm32f4/Drivers/
